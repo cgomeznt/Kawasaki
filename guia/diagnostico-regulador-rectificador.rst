@@ -121,3 +121,4 @@ Prueba 3: Cortocircuito a Tierra
 1. **Temperatura**: El regulador debe estar **caliente al tacto** (normal), pero no quemando.  
 2. **Conexiones**: Verifique oxidación en terminales (limpíe con lija fina si es necesario).  
 3. **Reemplazo**: Use **partes OEM Kawasaki** (ref: 21066-0004 para KLR650 2013).  
+
