@@ -197,3 +197,18 @@ Tabla de Presión de Neumáticos
    * - Trasero
      - 1.5 kgf/cm² (21 psi)
      - 2.0 kgf/cm² (28 psi)
+
+
+.. list-table:: Valores Esperados (Referencia)  
+   :widths: 30 30 30  
+   :header-rows: 1  
+
+   * - **Prueba**  
+     - **Condición**  
+     - **Valor Normal**  
+   * - Voltaje de carga  
+     - Motor a 5,000 RPM  
+     - 13.5V - 15.0V  
+   * - Resistencia (Diodos)  
+     - Motor apagado  
+     - 0.3Ω - 0.7Ω (polaridad directa)  
