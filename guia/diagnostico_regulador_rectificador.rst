@@ -1,4 +1,4 @@
-.. _mantenimiento-periodico:
+.. _diagnostico-regulador-rectificador:
 
 =====
 Mantenimiento Periódico
