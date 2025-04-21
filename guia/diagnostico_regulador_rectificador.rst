@@ -1,4 +1,4 @@
-.. _diagnostico-regulador-rectificador:
+.. _diagnostico_regulador_rectificador:
 
 =====
 Diagnóstico del Regulador/Rectificador  
