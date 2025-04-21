@@ -131,19 +131,33 @@ Prueba de Resistencia Interna
 
 
 Diagrama de Flujo de Diagnóstico:
+
 ¿Hay 12V en pin 1 y 6?
+
 ├─ No → Revisar fusibles/cableado
+
 └─ Sí → Continuar
+
+
 
 ¿Señal del sensor cigüeñal OK?
+
 ├─ No → Probar sensor
+
 └─ Sí → Continuar
 
+
+
 ¿Salida a bobina parpadea?
+
 ├─ No → CDI defectuoso
+
 └─ Sí → Problema en bobina/cables de bujía
 
+
+
 ¿Necesitas ampliar la prueba del sensor de cigüeñal o bobina de encendido? ¡Dímelo y completo la información!
+
 
 PD: En modelos 2013+, el "CDI" es realmente una unidad IC igniter (sin condensador descargable clásico).
 
