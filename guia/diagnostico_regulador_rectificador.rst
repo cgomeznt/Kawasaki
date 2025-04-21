@@ -1,12 +1,12 @@
 .. _diagnostico-regulador-rectificador:
 
 =====
-Mantenimiento Periódico
+Diagnóstico del Regulador/Rectificador Kawasaki KLR650 (2013)  
 =====
 
-.. contents:: Tabla de Contenidos
-   :depth: 3
-   :local:
+.. contents::  
+   :depth: 3  
+   :local:  
 
 -----
 **Herramientas Requeridas**  
