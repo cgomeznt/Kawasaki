@@ -1,8 +1,7 @@
 .. _prueba-bobina-encendido:
 
 =====
-Prueba de la Bobina de Encendido  
-Kawasaki KLR650 (2013)  
+Prueba de la Bobina de Encendido Kawasaki KLR650 (2013)  
 =====
 
 .. contents::  
